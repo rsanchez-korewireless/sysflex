@@ -49,7 +49,7 @@ This files contents are outlined below.
   background: #2469b6;
   display: block;
   border: 0;
-  color: #222222;
+  color: #ffffff;
   text-transform: uppercase;
   position: relative;
   z-index: 2;
@@ -678,7 +678,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   background: #fff;
 }
 .what_we_area .tittle h4 {
-  color: #333;
+  color: #ffffff;
 }
 .what_we_area .construction_iner {
   padding-top: 60px;
