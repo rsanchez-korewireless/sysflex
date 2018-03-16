@@ -26,8 +26,8 @@
                 p{
                     padding-top: 60px;
                     color: #fff;
-                    font: 400 14px/26px $roboto; 
-                    max-width: 750px;
+                    font: 400 21px/26px "Roboto", sans-serif; 
+                    max-width: 800px;
                     margin: 0 auto;
                     padding-bottom: 90px;
                 }
@@ -71,7 +71,7 @@
             }
         }
         .camera_prev, .camera_next{
-            opacity: 1 !important;
+//            opacity: 1 !important;
             background-color: transparent;
             span{
                 display: none;
