@@ -41,6 +41,11 @@ This files contents are outlined below.
   color: #FFFFFF;
 }
 
+.h1_white
+{
+    color:#FFFFFF
+}
+
 /* Button */
 .button_all {
   font: 700 18px/59px "Roboto", sans-serif;
